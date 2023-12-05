@@ -13,6 +13,7 @@ namespace selenium_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hi");
             Console.WriteLine("start selenium");
             Console.WriteLine("testing");
             Console.Write("test case started ");

@@ -14,7 +14,7 @@ namespace selenium_test
         static void Main(string[] args)
         {
             Console.WriteLine("start selenium");
-            //console
+            Console.WriteLine("testing");
             Console.Write("test case started ");
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://www.google.com/");
